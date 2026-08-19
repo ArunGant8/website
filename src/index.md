@@ -24,8 +24,7 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a doctoral student in the Partout team of LIX, the computer science lab of Ecole Polytech-
-nique. I am advised by [Dale Miller](https://www.lix.polytechnique.fr/Labo/Dale.Miller/) and [Kaustuv Chaudhuri](https://chaudhuri.info). I currently work on proof search, and study how various proof search strategies arise naturally out of the behaviour of suitably designed proof systems, especially *focused* proof systems.
+I am a doctoral student in the Partout team of LIX, the computer science lab of Ecole Polytechnique. I am advised by [Dale Miller](https://www.lix.polytechnique.fr/Labo/Dale.Miller/) and [Kaustuv Chaudhuri](https://chaudhuri.info). I currently work on proof search, and study how various proof search strategies arise naturally out of the behaviour of suitably designed proof systems, especially *focused* proof systems.
 
 # Publications
 
@@ -85,5 +84,5 @@ papers:
 - Master of Science (M. Sc) in Computer Science at Chennai Mathematical Institute ([CMI](https://www.cmi.ac.in/)) (Aug 22 - Jul 24)
 - Bachelor of Statistics (B. Stat) at Indian Statistical Institute ([ISI](https://www.isical.ac.in/index)) (Jul 19 - May 22)
 
-# Teaching Assistanship
+# Teaching
 - [Computer Programming](https://synapses.polytechnique.fr/catalogue/2020-2021/ue/19/CSE102-computer-programming?from=D12) (Spring 2026)
