@@ -59,8 +59,8 @@ papers:
 ## Talks
 
 ``` yaml {.papers}
-talks:
-  - title:"Automating Proof Search when Equality is a Logical Connective"
+papers:
+  - title: "Automating Proof Search when Equality is a Logical Connective"
     authors: Kaustuv Chaudhuri, Arunava Gantait, Dale Miller
     venue: IJCAR 2026, Lisbon
     date: 27 July 2026
@@ -69,7 +69,7 @@ talks:
         type: pdf
         src: https://github.com/ArunGant8/IJCAR2026-slides/blob/main/ijcar2026presentation.pdf
 
-  - title:"Designing a Safe Forward Chaining Tactic Using Productive Proofs"
+  - title: "Designing a Safe Forward Chaining Tactic Using Productive Proofs"
     authors: Kaustuv Chaudhuri, Arunava Gantait, Dale Miller
     venue: TABLEAUX 2025, Reykjavik
     date: 28 Sept 2025
