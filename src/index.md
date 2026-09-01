@@ -9,7 +9,7 @@ email: arunava.gantait@lix.polytechnique.fr
 picture: img/profile.jpg
 clickable-email: true
 picture-round: true
-side-by-side: true
+side-by-side: false
 disable-dark-mode: true
 pronouns: He/Him
 # og-picture: https://basicpage.github.io/img/profile.png
