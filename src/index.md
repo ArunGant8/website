@@ -6,7 +6,7 @@ description-meta: webpage of Arunava Gantait, currently a doctoral student at Ec
 og-url: https://arungantait.info
 location: Partout, Laboratoire d'Informatique de l'X (LIX), Ecole Polytechnique
 email: arunava.gantait@lix.polytechnique.fr
-# picture: img/profile.png
+picture: img/profile.png
 clickable-email: true
 # picture-round: false
 # side-by-side: true
