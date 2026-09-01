@@ -8,9 +8,9 @@ location: Partout, Laboratoire d'Informatique de l'X (LIX), Ecole Polytechnique
 email: arunava.gantait@lix.polytechnique.fr
 picture: img/profile.jpg
 clickable-email: true
-# picture-round: false
-# side-by-side: true
-# disable-dark-mode: false
+picture-round: false
+side-by-side: true
+disable-dark-mode: true
 pronouns: He/Him
 # og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0009-0009-7871-3098
